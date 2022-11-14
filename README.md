@@ -35,3 +35,7 @@ Please read contribution guidelines before contributing.
 
 - [VLDB'20 - Cloudburst: Stateful Functions-as-a-Service](http://www.vldb.org/pvldb/vol13/p2438-sreekanti.pdf)
 - [SOSP'21 - Boki: Stateful Serverless Computing with Shared Logs](https://www.cs.utexas.edu/~zjia/boki-sosp21.pdf)
+
+### Cost optimization and multi-cloud
+
+- [SIGOPS'21 - From Cloud Computing to Sky Computing](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf)
