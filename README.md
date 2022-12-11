@@ -25,6 +25,7 @@ Please read contribution guidelines before contributing.
 ### Heterogeneous, network and hardware
 
 - [OSDI'20 - Semeru: A Memory-Disaggregated Managed Runtime](https://www.usenix.org/conference/osdi20/presentation/wang)
+- [OSDI'23 - No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing](https://arxiv.org/pdf/2203.10225.pdf)
 
 ### Machine Learning
 
