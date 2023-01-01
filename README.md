@@ -15,6 +15,8 @@ Please read contribution guidelines before contributing.
 
 - [ATC'21 - FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute](https://www.usenix.org/system/files/atc21-wang-ao.pdf)
 - [ASPLOS’20 - Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting](https://ipads.se.sjtu.edu.cn/_media/publications/catalyzer-asplos20.pdf)
+- [ATC'18 - SOCK: Rapid Task Provisioning with Serverless-Optimized Containers](https://www.usenix.org/system/files/conference/atc18/atc18-oakes.pdf)
+- [HotCloud'19 - Agile Cold Starts for Scalable Serverless](https://www.usenix.org/system/files/hotcloud19-paper-mohan.pdf)
 
 ### Scheduling
 
