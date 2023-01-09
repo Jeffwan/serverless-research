@@ -1,6 +1,6 @@
 # Serverless Research Papers
 
-This repo collects recentg research papers on serverless. I would like to share my thoughts and annotations on those paper and discuss with anyone who shows interest.
+This repo collects recent research papers on serverless. I would like to share my thoughts and annotations on those papers and discuss with anyone who shows interest.
 
 Please read contribution guidelines before contributing.
 
@@ -17,6 +17,14 @@ Please read contribution guidelines before contributing.
 - [ASPLOS’20 - Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting](https://ipads.se.sjtu.edu.cn/_media/publications/catalyzer-asplos20.pdf)
 - [ATC'18 - SOCK: Rapid Task Provisioning with Serverless-Optimized Containers](https://www.usenix.org/system/files/conference/atc18/atc18-oakes.pdf)
 - [HotCloud'19 - Agile Cold Starts for Scalable Serverless](https://www.usenix.org/system/files/hotcloud19-paper-mohan.pdf)
+- [ATC'22 - Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing](https://www.usenix.org/conference/atc22/presentation/li-zijun-help)
+- [Middleware'20 - Prebaking Functions to Warm the Serverless Cold Start](https://dl.acm.org/doi/abs/10.1145/3423211.3425682)
+- [HotCloud'16 - Serverless Computation with OpenLambda](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf)
+- [EuroSys'19 - Replayable Execution Optimized for Page Sharing for a Managed Runtime Environment](https://dl.acm.org/doi/pdf/10.1145/3302424.3303978)
+- [ATC'18 - SAND: Towards High-Performance Serverless Computing](https://www.usenix.org/system/files/conference/atc18/atc18-akkus.pdf)
+- [ASPLOS'21 - Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices](https://dl.acm.org/doi/pdf/10.1145/3445814.3446701)
+- [EuroSys'20 - SEUSS: skip redundant paths to make serverless fast](https://dl.acm.org/doi/abs/10.1145/3342195.3392698)
+
 
 ### Scheduling
 
@@ -34,10 +42,16 @@ Please read contribution guidelines before contributing.
 - [ASPLOS'22 - INFless: A Native Serverless System for Low-Latency, High-Throughput Inference](https://dl.acm.org/doi/10.1145/3503222.3507709)
 - [SIGMOD'21 - Towards Demystifying Serverless Machine Learning Training](https://anakli.inf.ethz.ch/papers/serverless-sigmod2021.pdf)
 
-### Stateful, Fault Tolerant and Orchestration
+### Stateful and Storage
 
 - [VLDB'20 - Cloudburst: Stateful Functions-as-a-Service](http://www.vldb.org/pvldb/vol13/p2438-sreekanti.pdf)
 - [SOSP'21 - Boki: Stateful Serverless Computing with Shared Logs](https://www.cs.utexas.edu/~zjia/boki-sosp21.pdf)
+- [Fast'16 - Slacker: Fast Distribution with Lazy Docker Containers](https://www.usenix.org/system/files/conference/fast16/fast16-papers-harter.pdf)
+- [ASPLOS'21 - FaasCache: keeping serverless computing alive with greedy-dual caching](https://cgi.luddy.indiana.edu/~prateeks/papers/faascache-asplos21.pdf)
+
+### Orchestration and Workflow
+
+- [SoCC'21 - Kraken: Adaptive Container Provisioning for Deploying Dynamic DAGs in Serverless Platforms](https://dl.acm.org/doi/pdf/10.1145/3472883.3486992)
 
 ### Cost optimization and multi-cloud
 
